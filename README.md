@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fmodi2](https://github.com/fmodi2)
 
-- 💬 Ask me about: java and c++
-
 - 📫 How to reach me **freyamodi47@gmail.com**
 
 - ⚡ Fun fact **I think I am the funniest person**
