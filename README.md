@@ -16,6 +16,14 @@
 
 - ⚡ Fun fact **I think I am the funniest person**
 
+- Little More about my journey:
+
+  My interest in software development began back in high school when I was first introduced to computer science. I was amazed at how writing just a few lines of code could turn into something real and useful, and that experience made me want to keep learning more. Since then, I’ve been exploring different programming languages and building projects that challenge me to think in new ways. Every project I’ve worked on has made me more excited about using code to solve real problems.
+
+  In college, I’ve taken courses like Data Structures, Algorithms, System Programming, Computer Algorithms, and Software Design, which gave me a solid foundation in both technical skills and logical thinking. I’ve used what I learned in these classes to create projects with Java, C++, and JavaScript, and I’ve also worked with HTML and SQL to make applications more complete and practical. These experiences have helped me grow not just as a programmer, but also as someone who enjoys learning and pushing myself to do better.
+
+  My main skills are in Java, C++, JavaScript, HTML, and SQL, but I’m always open to learning more. What excites me most is the chance to use these skills to build software that makes a difference.
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/freyamodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freyamodi" height="30" width="40" /></a>
