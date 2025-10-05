@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Freya Modi</h1>
 <h2 align="center">Curious full-stack developer from Chicago, passionate about solving problems.</h2>
 
-- 🔭 I’m currently a - Mobile App intern at Checago Coffee App Company
+- 🔭 I’m currently a - Mobile Application Dveloper intern at Checago Coffee Inc.
 
 - 🌱 I’m currently learning: SWift
 
