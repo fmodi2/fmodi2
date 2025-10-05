@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: SWift
 
 
-- 💻 Senior at UIC pursing Bachelors in Engineering Computer Science:
+- 💻 Senior at UIC pursing Bachelors in Engineering - Computer Science:
 -  Important Courses taken :Data Structures, Software Design, Computer Algorithms, Machine Organization, DataBase Systems
 
 
