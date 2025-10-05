@@ -27,7 +27,7 @@
 - 📫 How to reach me **freyamodi47@gmail.com**
   
 
-- ⚡ Fun fact **I think I am the funniest person**
+- ⚡ Fun fact: **I think I am the funniest person**
 
 
 - Little More about my journey:
