@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Freya Modi</h1>
-<h2 align="center">Curious full-stack developer from Chicago, passionate about solving problems.</h2>
+<h2 align="center">Curious full-stack developer, passionate about solving problems.</h2>
 
 - 🔭 I’m currently a - Mobile Application Developer intern at Checago Coffee Inc.
 
